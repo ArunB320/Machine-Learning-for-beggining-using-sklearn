@@ -61,5 +61,3 @@ Har file ke andar (Code ke upar) **Comments** zaroor likhein, jaise:
 - `# Step 3: Training Model`
 
 Beginners ke liye ye comments kisi khazane se kam nahi hote.
-
-**Kya aap chahte hain ki main aapki repo ke liye ek standard 'Folder Structure' bhi suggest karoon?**
